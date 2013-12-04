@@ -1,0 +1,13 @@
+[user]
+    name = pingswept
+    email = someone@somewhere.gov
+[color]
+    diff = auto
+    interactive = auto
+    status = auto
+    branch = auto
+[core]
+    quotepath = false
+[github]
+	  user = pingswept
+	  token = put-the-actual-token-here-2312fsd123sfdadsf1
