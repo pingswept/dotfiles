@@ -4,7 +4,6 @@ set expandtab
 set autoindent
 
 syntax on
-map <F2> :NERDTreeToggle<CR>
 
 nnoremap <F3> :set invpaste paste?<CR>
 set pastetoggle=<F3>
