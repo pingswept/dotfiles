@@ -9,5 +9,7 @@
 [core]
     quotepath = false
 [github]
-	  user = pingswept
-	  token = put-the-actual-token-here-2312fsd123sfdadsf1
+    user = pingswept
+    token = put-the-actual-token-here-2312fsd123sfdadsf1
+[push]
+    default = simple
