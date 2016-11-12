@@ -1,5 +1,7 @@
 # Need to install Antigen first: https://github.com/zsh-users/antigen
-source /Users/brandon/antigen.zsh
+# Install like this:
+# curl https://cdn.rawgit.com/zsh-users/antigen/v1.2.1/bin/antigen.zsh > antigen.zsh
+source /home/brandon/antigen.zsh
 
 # Load the oh-my-zsh's library.
 antigen use oh-my-zsh
