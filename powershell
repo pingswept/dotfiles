@@ -1,1 +1,11 @@
-iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
+    iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
+
+    set-executionpolicy unrestricted -s cu
+
+    scoop install concfg
+
+    # back-up current console settings
+    concfg export console-backup.json
+
+    # use solarized color theme, in a small window
+    concfg import solarized small
